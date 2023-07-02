@@ -1,0 +1,65 @@
+{
+    "patients": [
+        {
+            "id": 1,
+            "name": "Harsh Vardhan",
+            "address": "sector 1",
+            "clinic": "A Clinic"
+        },
+        {
+            "id": 2,
+            "name": "Manish Singh",
+            "address": "sector 2",
+            "clinic": "B Clinic"
+        },
+        {
+            "id": 3,
+            "name": "John wick",
+            "address": "sector 3",
+            "clinic": "C Clinic"
+        },
+        {
+            "id": 4,
+            "name": "John Cena",
+            "address": "sector 4",
+            "clinic": "D Clinic"
+        },
+        {
+            "id": 5,
+            "name": "Jon Snow",
+            "address": "sector 5",
+            "clinic": "E Clinic"
+        },
+        {
+            "id": 6,
+            "name": "Robb Stark",
+            "address": "sector 6",
+            "clinic": "F Clinic"
+        }
+    ],
+    "clinics": [
+      {
+        "id": 1,
+        "clinic_name": "A Clinic"
+      },
+      {
+        "id": 2,
+        "clinic_name": "B Clinic"
+      },
+      {
+        "id": 3,
+        "clinic_name": "C Clinic"
+      },
+      {
+        "id": 4,
+        "clinic_name": "D Clinic"
+      },
+      {
+        "id": 5,
+        "clinic_name": "E Clinic"
+      }
+    ],
+    "profile": {
+      "name": "Manish Singh"
+    }
+  }
